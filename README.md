@@ -14,3 +14,5 @@ Built for Node Version: 12.x
 2. Commit your changes.
 3. Push changes.
 4. Submit a pull request with your updates to this project
+
+## This setup is built using Express, Mongoose. For functional testing, Mocha, Chai, Chai-As-Promised, Supertest are used

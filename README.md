@@ -1,5 +1,5 @@
-# coding-node
-This is a repository for applicants to the Network Software submit coding exercises for review.
+# mocha-functional-test-playground
+This is a repository for playing around with Mocha framework to create gunctional tests for and express app.
 
 ## Getting Started:
 Built for Node Version: 12.x
@@ -10,7 +10,7 @@ Built for Node Version: 12.x
 4. `npm run tests` to run sample unit tests.
 
 ## Doing the test:
-1. Do requested changes.
+1. Do your changes.
 2. Commit your changes.
 3. Push changes.
 4. Submit a pull request with your updates to this project
